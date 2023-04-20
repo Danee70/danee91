@@ -1,0 +1,15 @@
+
+*{
+    margin: 0;
+    padding: 0 auto;
+}
+
+.bg{
+    size: 90%;
+    text-align: center;
+}
+
+.bg img{
+    width: 70%;
+    height: 70%;
+}
